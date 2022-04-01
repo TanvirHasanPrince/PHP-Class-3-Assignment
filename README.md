@@ -28,7 +28,7 @@ Secondly you have to show the grade message (Like as: “You got A+”) by follo
 
 
 
-**Question 02: **
+**Question 02:**
 
 
 Let’s make a game with your bike… You are riding a bike, your bike has some functionalities, these are… start, stop, break, gear, signal, headlight. 
